@@ -50,13 +50,13 @@ The dataset used in this project is sourced from the UCSD Amazon product reviews
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+To run this project locally simply:
 
 1. Clone this repository:
    ```bash
    git clone <repository-url>
    cd Review-Sentiment-Determiner
 2. Download the dataset:
-   the dataset will be downloaded automatically by running the python script
+- this is done automatically upon running the application
 3. Run the script:
-   python sentiment_analysis.py
+- python sentiment_analysis.py
