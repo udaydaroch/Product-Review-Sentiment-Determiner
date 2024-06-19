@@ -7,7 +7,7 @@ The **Review Sentiment Determiner** project aims to predict the sentiment or rat
 ## Data Source
 
 The dataset used in this project is sourced from the UCSD Amazon product reviews dataset available at [UCSD Data Repository](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/Software.jsonl.gz). The dataset contains reviews from various software products, including user IDs, review texts, and ratings.
-
+for this project only the reviews from the Software category were used
 ## Project Workflow
 
 1. **Data Download and Extraction**:
